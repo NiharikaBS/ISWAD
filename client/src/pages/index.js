@@ -7,8 +7,6 @@ import PublicRoute from '@/components/RouteHandlers/PublicRoute';
 import Seo from '@/components/PageWrappers/Seo';
 import PageContainer from '@/components/PageWrappers/PageContainer';
 
-import styles from './index.module.scss';
-
 const Index = () => {
   return (
     <PublicRoute>
